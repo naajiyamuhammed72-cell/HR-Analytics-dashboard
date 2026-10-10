@@ -56,6 +56,3 @@ The dashboard can be used to identify:
 - Job satisfaction ratings across different job roles
 - Employee distribution across salary slabs
 
-## 🚀 Conclusion
-
-This Excel HR Analytics Dashboard demonstrates how **Pivot Tables, interactive filters, charts, and KPIs** can be combined to create an effective HR reporting solution. It showcases practical skills in Excel data analysis, dashboard development, and data visualization to support data-driven human resource decisions.
